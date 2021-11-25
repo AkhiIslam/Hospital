@@ -1,0 +1,23 @@
+.header nav {
+    background-color: rgb(119, 142, 211);
+    line-height: 33px;
+    text-align: center;
+}
+.header nav a{
+    text-decoration: none;
+    color: wheat;
+    margin-right: 20px;
+    padding: 5px;
+    font-size: 20px;
+}
+.header nav a:hover{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5px;
+}
+.button{
+    background-color:  rgb(119, 142, 211);
+    color: wheat;
+    border: none;
+    font-size: 20px;
+}

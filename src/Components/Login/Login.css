@@ -1,0 +1,11 @@
+.login-form{
+    background-color: wheat;
+    width: 300px;
+    padding: 20px;
+    margin: auto;
+    border-radius: 15px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
